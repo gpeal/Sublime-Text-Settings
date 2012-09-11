@@ -1,0 +1,20 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"default_line_ending": "LF",
+	"font_size": 10,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"theme": "Soda Dark.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"highlight_modified_tabs": true,
+	"bold_folder_labels": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true
+}
