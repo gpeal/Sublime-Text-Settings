@@ -1,7 +1,8 @@
 {
-	"auto_upgrade_last_run": 1347375556,
+	"auto_upgrade_last_run": 1347634172,
 	"installed_packages":
 	[
+		"ChangeQuotes",
 		"DocBlockr",
 		"Package Control",
 		"SublimeCodeIntel",

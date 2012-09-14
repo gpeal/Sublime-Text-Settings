@@ -1,5 +1,6 @@
 [
-	{ "keys": ["alt+;"], "command": "end_of_line_semicolon" },
+    { "keys": ["alt+;"], "command": "end_of_line_semicolon" },
     { "keys": ["ctrl+alt+f"], "command": "find_under" },
-    { "keys": ["ctrl+alt+shift+f"], "command": "find_all_under" }
+    { "keys": ["ctrl+alt+shift+f"], "command": "find_all_under" },
+    { "keys": ["ctrl+'"], "command": "change_quotes" }
 ]

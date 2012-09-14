@@ -1,5 +1,5 @@
 {
-	"javascript_linter": "gjslint",
-	"sublimelinter_popup_errors_on_save": true,
-	"sublimelinter_delay": 2
+    "javascript_linter": "gjslint",
+    "sublimelinter_popup_errors_on_save": true,
+    "sublimelinter_delay": 2
 }
