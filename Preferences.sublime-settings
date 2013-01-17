@@ -1,8 +1,11 @@
 {
-	"bold_folder_labels": false,
+	"bold_folder_labels": true,
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"default_line_ending": "LF",
-	"font_size": 10,
+	"ensure_newline_at_eof_on_save": false,
+	"font_face": "Source Code Pro",
+	"font_size": 13.0,
+	"gpu_window_buffer": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -11,10 +14,14 @@
 	],
 	"rulers":
 	[
-		80
+		80,
+		120
 	],
+	"scroll_past_end": true,
+	"spell_check": true,
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "false"
 }

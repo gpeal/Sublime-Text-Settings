@@ -1,11 +1,18 @@
 {
-	"auto_upgrade_last_run": 1347634172,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"ChangeQuotes",
+		"CoffeeScript",
 		"DocBlockr",
+		"Emmet",
 		"Package Control",
+		"SCSS",
+		"SideBarEnhancements",
+		"sublime-split-navigation",
 		"SublimeCodeIntel",
+		"SublimeLinter",
 		"Theme - Soda",
 		"Tomorrow Color Schemes"
 	]

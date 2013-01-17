@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+class ${1} < Base${2:Shopify}Model
+  self.table_name=${3}
+end
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>dmt</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
