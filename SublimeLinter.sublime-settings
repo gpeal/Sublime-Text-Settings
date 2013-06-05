@@ -1,9 +1,13 @@
 {
     "javascript_linter": "gjslint",
-    "sublimelinter_popup_errors_on_save": true,
+    "sublimelinter_popup_errors_on_save": false,
     "sublimelinter_delay": 2,
     "sublimelinter_executable_map":
     {
         "ruby": "/Users/Gabriel/.rvm/bin/rvm-auto-ruby"
-    }
+    },
+    "sublimelinter_disable":
+    [
+      "python"
+    ]
 }

@@ -1,0 +1,1010 @@
+{
+    "null": {
+        "time": 5
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/.gitignore": {
+        "time": 160
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/__init__.py": {
+        "time": 90
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/adapters/__init__.py": {
+        "time": 750
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/adapters/imdb.py": {
+        "time": 6060
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/adapters/metacritic.py": {
+        "time": 3280
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/adapters/ratings.py": {
+        "time": 85
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/adapters/rotten_tomatoes.py": {
+        "time": 2300
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/core.py": {
+        "time": 160
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/get_ranking.py": {
+        "time": 185
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/helpers/__init__.py": {
+        "time": 700
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/lib": {
+        "time": 10
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/lib/__init__.py": {
+        "time": 25
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/lib/metacritic.py": {
+        "time": 20
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/lib/similar.py": {
+        "time": 330
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/main.py": {
+        "time": 6955
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/metacritic_lib.py": {
+        "time": 460
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/movies.csv": {
+        "time": 1085
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/movies_output.csv": {
+        "time": 50
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/profiler.py": {
+        "time": 6495
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/ratings.py": {
+        "time": 50
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/should_i_watch.py": {
+        "time": 230
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/similar.py": {
+        "time": 80
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/test_sample.py": {
+        "time": 15
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/MovieRatings/tests/get_ranking.py": {
+        "time": 290
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/imdb.py": {
+        "time": 1055
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/metacritic.py": {
+        "time": 45
+    }, 
+    "/Users/gabriel/.virtualenvs/MovieStats/ratings.py": {
+        "time": 2950
+    }, 
+    "/Users/gabriel/.zshrc": {
+        "time": 35
+    }, 
+    "/Users/gabriel/Desktop/LOG.log": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Desktop/imdb.py": {
+        "time": 10
+    }, 
+    "/Users/gabriel/Desktop/main.app/Contents/Info.plist": {
+        "time": 240
+    }, 
+    "/Users/gabriel/Development/DC-Drone/Drone/Drone.ino": {
+        "time": 820
+    }, 
+    "/Users/gabriel/Development/DC-Drone/Drone/Encoder.cpp": {
+        "time": 225
+    }, 
+    "/Users/gabriel/Development/DC-Drone/Drone/Encoder.h": {
+        "time": 15
+    }, 
+    "/Users/gabriel/Development/DC-Drone/Drone/Metro.h": {
+        "time": 20
+    }, 
+    "/Users/gabriel/Development/DC-Drone/Drone/Motor.cpp": {
+        "time": 470
+    }, 
+    "/Users/gabriel/Development/DC-Drone/Drone/Motor.h": {
+        "time": 65
+    }, 
+    "/Users/gabriel/Development/DC-Drone/Drone/Timer": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/DC-Drone/Drone/Tracker.cpp": {
+        "time": 2755
+    }, 
+    "/Users/gabriel/Development/DC-Drone/Drone/Tracker.h": {
+        "time": 325
+    }, 
+    "/Users/gabriel/Development/DC-Drone/Drone/Utils.cpp": {
+        "time": 115
+    }, 
+    "/Users/gabriel/Development/DC-Drone/Drone/Utils.h": {
+        "time": 95
+    }, 
+    "/Users/gabriel/Development/DC-Drone/Encoder.h": {
+        "time": 50
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/.dat86f1.001": {
+        "time": 75
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/.gitignore": {
+        "time": 305
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/Gemfile": {
+        "time": 1340
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/Gemfile.lock": {
+        "time": 290
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/Rakefile": {
+        "time": 14030
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/app_delegate.rb": {
+        "time": 14835
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/controllers/beer_image_view_controller.rb": {
+        "time": 5000
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/controllers/beer_show_view_controller.rb": {
+        "time": 22955
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/controllers/brewery_tab_bar_controller.rb": {
+        "time": 2920
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/controllers/brewery_tab_bar_view_controller.rb": {
+        "time": 20
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/controllers/brewery_website_view_controller.rb": {
+        "time": 3265
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/controllers/featured_beer_navigation_controller.rb": {
+        "time": 1200
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/controllers/featured_beer_view_controller.rb": {
+        "time": 2400
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/controllers/local_view_controller.rb": {
+        "time": 32045
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/controllers/more_table_view_controller.rb": {
+        "time": 11065
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/controllers/rate_view_controller.rb": {
+        "time": 6730
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/controllers/saved_beers_view_controller.rb": {
+        "time": 2430
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/controllers/search_view_controller.rb": {
+        "time": 16370
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/controllers/send_feedback_view_controller.rb": {
+        "time": 4260
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/lib/hash_extensions.rb": {
+        "time": 600
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/lib/test_flight_extensions2.rb": {
+        "time": 100
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/lib/ui_table_view_extensions.rb": {
+        "time": 710
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/models": {
+        "time": 50
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/models/beer.rb": {
+        "time": 26655
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/models/brewery.rb": {
+        "time": 3440
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/models/dummy_annotation.rb": {
+        "time": 135
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/segues/beer_comment_segue.rb": {
+        "time": 400
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/testflight_launcher.rb": {
+        "time": 2655
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/ui_table_view_extensions": {
+        "time": 20
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/ui_table_view_extensions.rb": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/views": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/app/views/beer_table_view_cell.rb": {
+        "time": 325
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/build/iPhoneOS-6.1-Development/Brew Mate.dSYM/Contents/Info.plist": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/resources/MainStoryboard.storyboard": {
+        "time": 95
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/resources/MainStoryboard.storyboardc/UIViewController-P8e-aV-PQV.nib": {
+        "time": 10
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/vendor/Pods/TestFlightSDK/README.md": {
+        "time": 75
+    }, 
+    "/Users/gabriel/Development/RubyMotion/BreweryDB/vendor/TestFlight/README.md": {
+        "time": 10
+    }, 
+    "/Users/gabriel/Development/RubyMotion/FoursquareTest/.datc4f0.000": {
+        "time": 10
+    }, 
+    "/Users/gabriel/Development/RubyMotion/FoursquareTest/.gitignore": {
+        "time": 55
+    }, 
+    "/Users/gabriel/Development/RubyMotion/FoursquareTest/Gemfile": {
+        "time": 980
+    }, 
+    "/Users/gabriel/Development/RubyMotion/FoursquareTest/Gemfile.lock": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/RubyMotion/FoursquareTest/Rakefile": {
+        "time": 2480
+    }, 
+    "/Users/gabriel/Development/RubyMotion/FoursquareTest/app/app.yml": {
+        "time": 80
+    }, 
+    "/Users/gabriel/Development/RubyMotion/FoursquareTest/app/app_delegate.rb": {
+        "time": 1055
+    }, 
+    "/Users/gabriel/Development/RubyMotion/FoursquareTest/app/foursquare_controller.rb": {
+        "time": 26455
+    }, 
+    "/Users/gabriel/Development/RubyMotion/FoursquareTest/app/foursquare_list_view.rb": {
+        "time": 130
+    }, 
+    "/Users/gabriel/Development/RubyMotion/FoursquareTest/app/foursquare_map_view.rb": {
+        "time": 445
+    }, 
+    "/Users/gabriel/Development/RubyMotion/FoursquareTest/app/foursquare_table_view.rb": {
+        "time": 745
+    }, 
+    "/Users/gabriel/Development/RubyMotion/FoursquareTest/app/venue.rb": {
+        "time": 2765
+    }, 
+    "/Users/gabriel/Development/RubyMotion/FoursquareTest/resources/Default-568h@2x.png": {
+        "time": 140
+    }, 
+    "/Users/gabriel/Development/RubyMotion/FoursquareTest/resources/app.yml": {
+        "time": 250
+    }, 
+    "/Users/gabriel/Development/RubyMotion/FoursquareTest/spec/main_spec.rb": {
+        "time": 265
+    }, 
+    "/Users/gabriel/Development/RubyMotion/FoursquareTest/vendor/Podfile.lock": {
+        "time": 400
+    }, 
+    "/Users/gabriel/Development/RubyMotion/FoursquareTest/vendor/Pods/Google-Maps-iOS-SDK/GoogleMaps.framework/Versions/A/GoogleMaps": {
+        "time": 20
+    }, 
+    "/Users/gabriel/Development/RubyMotion/FoursquareTest/vendor/Pods/Headers/MBProgressHUD/MBProgressHUD.h": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/RubyMotion/Hello/app/app_delegate.rb": {
+        "time": 450
+    }, 
+    "/Users/gabriel/Development/RubyMotion/HelloMotion/Rakefile": {
+        "time": 15
+    }, 
+    "/Users/gabriel/Development/RubyMotion/HelloMotion/app/app_delegate.rb": {
+        "time": 2390
+    }, 
+    "/Users/gabriel/Development/RubyMotion/HelloMotion/app/controllers/AlphabetController.rb": {
+        "time": 1250
+    }, 
+    "/Users/gabriel/Development/RubyMotion/HelloMotion/app/controllers/TapController.rb": {
+        "time": 1440
+    }, 
+    "/Users/gabriel/Development/RubyMotion/Magic8Ball/Rakefile": {
+        "time": 455
+    }, 
+    "/Users/gabriel/Development/RubyMotion/Magic8Ball/app/app_delegate.rb": {
+        "time": 120
+    }, 
+    "/Users/gabriel/Development/RubyMotion/Magic8Ball/app/magic_8_ball_view_controller.rb": {
+        "time": 445
+    }, 
+    "/Users/gabriel/Development/RubyMotion/MotionModelTest/Gemfile": {
+        "time": 110
+    }, 
+    "/Users/gabriel/Development/RubyMotion/MotionModelTest/Rakefile": {
+        "time": 225
+    }, 
+    "/Users/gabriel/Development/RubyMotion/MotionModelTest/app/app_delegate.rb": {
+        "time": 1590
+    }, 
+    "/Users/gabriel/Development/RubyMotion/MotionModelTest2/Gemfile.lock": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/RubyMotion/MotionModelTest2/Rakefile": {
+        "time": 25
+    }, 
+    "/Users/gabriel/Development/RubyMotion/MotionModelTest2/app/app_delegate.rb": {
+        "time": 60
+    }, 
+    "/Users/gabriel/Development/RubyMotion/Parallax/.dat1ce7.001": {
+        "time": 20
+    }, 
+    "/Users/gabriel/Development/RubyMotion/Parallax/Rakefile": {
+        "time": 785
+    }, 
+    "/Users/gabriel/Development/RubyMotion/Parallax/app/app_delegate.rb": {
+        "time": 115
+    }, 
+    "/Users/gabriel/Development/RubyMotion/Parallax/app/parallax_view_controller.rb": {
+        "time": 14115
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotion-Storyboard-Example/storyboard/app/ViewControllerA.rb": {
+        "time": 20
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/Beers/Rakefile": {
+        "time": 55
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/Beers/app/app_delegate.rb": {
+        "time": 295
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/Beers/app/beer.rb": {
+        "time": 190
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/Beers/app/beer_details_controller.rb": {
+        "time": 10
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/Beers/app/beer_list_controller.rb": {
+        "time": 55
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/Beers/app/beer_map_controller.rb": {
+        "time": 975
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/CircleLayout/app/cell.rb": {
+        "time": 30
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/Fonts/app/root_controller.rb": {
+        "time": 10
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/GestureTable/README": {
+        "time": 10
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/GestureTable/app/UITableView_extensions.rb": {
+        "time": 15
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/GestureTable/app/app_delegate.rb": {
+        "time": 65
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/GestureTable/app/gesture_recognizer.rb": {
+        "time": 2025
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/GestureTable/app/transformable_cells.rb": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/GestureTable/app/view_controller.rb": {
+        "time": 505
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/Locations/app/location.rb": {
+        "time": 65
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/Locations/app/locations_controller.rb": {
+        "time": 400
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/Paint/app/app_delegate.rb": {
+        "time": 75
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/Paint/app/paint_view.rb": {
+        "time": 140
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/TicTacToe/app/board.rb": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/TicTacToe/app/board_view_controller.rb": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/Timer/app/timer_controller.rb": {
+        "time": 100
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/Trollify/app/app_delegate.rb": {
+        "time": 1045
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/Trollify/app/image_composition_controller.rb": {
+        "time": 35
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/Tweets/app/app_delegate.rb": {
+        "time": 365
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/Tweets/app/json_parser.rb": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/Tweets/app/tweet.rb": {
+        "time": 15
+    }, 
+    "/Users/gabriel/Development/RubyMotion/RubyMotionSamples/Tweets/app/tweets_controller.rb": {
+        "time": 750
+    }, 
+    "/Users/gabriel/Development/RubyMotion/UITest/app/app_delegate.rb": {
+        "time": 3105
+    }, 
+    "/Users/gabriel/Development/RubyMotion/UITest/app/controllers/ui_custom_table_view_controller.rb": {
+        "time": 1365
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/BadalaBoop/Rakefile": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/BubbleWrap/samples/gesture/app/views/drawing/gesture_view.rb": {
+        "time": 10
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/CarenMotion/app/views/splash_view.rb": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/Chatoms-RubyMotion/app/controllers/chatoms_controller.rb": {
+        "time": 20
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/CoolButton/Rakefile": {
+        "time": 90
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/Countdown/app/views/countdown_label.rb": {
+        "time": 70
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/MapKitWrapper/lib/map-kit-wrapper/map_view.rb": {
+        "time": 15
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/MotionDialog/MotionDialog/dialog_view_controller.rb": {
+        "time": 25
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/UITableViewWrapper/Rakefile": {
+        "time": 85
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/UITableViewWrapper/app/app_delegate.rb": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/UITableViewWrapper/app/other_test_view_controller.rb": {
+        "time": 120
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/UITableViewWrapper/app/refresh_table_header_view.rb": {
+        "time": 45
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/UITableViewWrapper/app/refresh_view_controller.rb": {
+        "time": 140
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/bnr-ios-rubymotion/05/WhereWasI/app/app_delegate.rb": {
+        "time": 20
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/cinegraphr/app/first_run/first_run_view.rb": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/cinegraphr/app/meta/meta_view.rb": {
+        "time": 65
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/cinegraphr/app/misc/tool_switch_view.rb": {
+        "time": 15
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/cinegraphr/app/root/root_view_controller.rb": {
+        "time": 25
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/formotion/lib/formotion/row_type/options_row.rb": {
+        "time": 75
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/griddler/app/board_controller.rb": {
+        "time": 10
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/griddler/app/board_view.rb": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/iPOuL/app/controllers/where_controller.rb": {
+        "time": 40
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/motion-gkpeerpicker-test/app/search_controller.rb": {
+        "time": 45
+    }, 
+    "/Users/gabriel/Development/RubyMotion/rubymotion-cookbook/projects/rubymotion-foursquare/app/app_delegate.rb": {
+        "time": 10
+    }, 
+    "/Users/gabriel/Development/walkby/Backend.sublime-project": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/Gemfile": {
+        "time": 1640
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/README.rdoc": {
+        "time": 10
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/javascripts/application.js": {
+        "time": 280
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/javascripts/global/angular.js.coffee": {
+        "time": 310
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/javascripts/global/angular/address.js.coffee": {
+        "time": 1385
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/javascripts/global/angular/cc.js.coffee": {
+        "time": 3310
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/javascripts/global/angular/checkout_service.js.coffee": {
+        "time": 205
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/javascripts/global/angular/login.js.coffee": {
+        "time": 25
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/javascripts/global/angular/mask.js": {
+        "time": 380
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/javascripts/global/angular/order.js.coffee": {
+        "time": 235
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/javascripts/global/angular/order_service.js.coffee": {
+        "time": 985
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/javascripts/global/angular/product.js.coffee": {
+        "time": 590
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/javascripts/global/angular/user_service.js.coffee": {
+        "time": 455
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/javascripts/global/jquery.maskedinput.js": {
+        "time": 135
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/javascripts/global/jquery.payment.js.coffee": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/javascripts/global/live_cut.js.coffee": {
+        "time": 1865
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/javascripts/global/maskedinput.js": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/javascripts/global/nav.js.coffee": {
+        "time": 135
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/javascripts/home/index.js.coffee": {
+        "time": 1215
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/javascripts/home/onboarding.js.coffee": {
+        "time": 205
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/javascripts/home/product_modal.js.coffee": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/javascripts/home/signed_in.js.coffee": {
+        "time": 75
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/javascripts/home/start_login.js.coffee": {
+        "time": 10
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/javascripts/home/welcome.js.coffee": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/javascripts/products/show.js.coffee": {
+        "time": 1115
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/stylesheets/_checkout.css.scss": {
+        "time": 1880
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/stylesheets/_live-cut-bar.css.scss": {
+        "time": 1230
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/stylesheets/_login.css.scss": {
+        "time": 2170
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/stylesheets/_onboarding.css.scss": {
+        "time": 200
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/stylesheets/_salesfeed.css.scss": {
+        "time": 65
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/stylesheets/application.css": {
+        "time": 20
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/stylesheets/master.css.scss": {
+        "time": 100
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/assets/stylesheets/store/checkout.css.scss": {
+        "time": 100
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/controllers/api/v1/accounts_controller.rb": {
+        "time": 2200
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/controllers/api/v1/base_controller.rb": {
+        "time": 265
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/controllers/api/v1/games_controller.rb": {
+        "time": 30
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/controllers/api/v1/products_controller.rb": {
+        "time": 325
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/controllers/base_controller_decorator.rb": {
+        "time": 825
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/controllers/home_controller_decorator.rb": {
+        "time": 10
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/controllers/orders_controller_decorator.rb": {
+        "time": 415
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/controllers/products_controller_decorator.rb": {
+        "time": 15
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/controllers/spree/api/orders_controller_decorator.rb": {
+        "time": 3915
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/controllers/spree/omniauth_callbacks_controller_decorator.rb": {
+        "time": 1185
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/controllers/user_registrations_controller_decorator.rb": {
+        "time": 1165
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/controllers/user_sessions_controller_decorator.rb": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/models/ability_decorator.rb": {
+        "time": 60
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/models/product_decorator.rb": {
+        "time": 450
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/models/spree/order_decorator.rb": {
+        "time": 700
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/models/taxon_decorator.rb": {
+        "time": 125
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/models/user_decorator.rb": {
+        "time": 6505
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/api/v1/products/_categories_select_grid.html.haml": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/api/v1/products/card_select_grid.js.haml": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/api/v1/shops/_onboarding_list.html.haml": {
+        "time": 35
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/api/v1/shops/onboarding_list.js.haml": {
+        "time": 10
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/layouts/_live.cut.bar.html.erb": {
+        "time": 1160
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/layouts/_meta_tags.html.haml": {
+        "time": 520
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/layouts/_nav.desktop.html.haml": {
+        "time": 540
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/layouts/_nav.mobile.html.haml": {
+        "time": 165
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/layouts/application.html.haml": {
+        "time": 925
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/layouts/checkout/_cc.html.haml": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/layouts/checkout/_summary.html.haml": {
+        "time": 685
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/layouts/checkout/address/_create.html.haml": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/layouts/checkout/cc/_create.html.haml": {
+        "time": 1505
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/layouts/checkout/cc/_edit.html.haml": {
+        "time": 1600
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/layouts/checkout/cc/_show.html.haml": {
+        "time": 10
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/layouts/checkout/login/_login.html.haml": {
+        "time": 920
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/spree/api/orders/show.v1.rabl": {
+        "time": 220
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/spree/home/_login.html.haml": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/spree/home/index.html.haml": {
+        "time": 55
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/spree/home/login/_box.html.haml": {
+        "time": 70
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/spree/home/login/_form.html.haml": {
+        "time": 1930
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/spree/home/onboarding/_categories.html.haml": {
+        "time": 315
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/spree/home/onboarding/_products.html.haml": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/spree/home/onboarding/_shops.html.haml": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/spree/home/onboarding/_signup_form.html.haml": {
+        "time": 170
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/spree/home/salesfeed/_salesfeed.html.haml": {
+        "time": 15
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/spree/products/_product.html.haml": {
+        "time": 145
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/app/views/spree/products/show.html.haml": {
+        "time": 4055
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/config/application.rb": {
+        "time": 380
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/config/boot.rb": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/config/environments/development.rb": {
+        "time": 950
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/config/environments/production.rb": {
+        "time": 60
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/config/environments/test.rb": {
+        "time": 25
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/config/initializers/asset_sync.rb": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/config/initializers/mail_chimp.rb": {
+        "time": 4190
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/config/initializers/spree.rb": {
+        "time": 25
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/config/mail_chimp.yml": {
+        "time": 95
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/config/routes.rb": {
+        "time": 100
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/config/routes/html.rb": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/config/s3.yml": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/db/seeds.rb": {
+        "time": 430
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/lib/tasks/erb2haml.rake": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/lib/tasks/update_weekly_digest.rake": {
+        "time": 1190
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/log/development.log": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/log/development_logger.log": {
+        "time": 220
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/routes.txt": {
+        "time": 20
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/spec/controllers/api/v1/accounts_controller_spec.rb": {
+        "time": 980
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/spec/controllers/api/v1/images_controller_spec.rb": {
+        "time": 10
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/spec/controllers/mpa_controller_spec.rb": {
+        "time": 70
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/spec/controllers/tos_controller_spec.rb": {
+        "time": 10
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/spec/controllers/user_registrations_controller_spec.rb": {
+        "time": 1735
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/spec/factories.rb": {
+        "time": 20
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/spec/initializers/mail_chimp_spec.rb": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/spec/models/spree_user_test.rb": {
+        "time": 1775
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/spec/support/devise.rb": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/vendor/bundle/ruby/1.9.1/gems/spree_api-1.3.2/app/controllers/spree/api/base_controller.rb": {
+        "time": 45
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/vendor/bundle/ruby/1.9.1/gems/spree_api-1.3.2/lib/spree/api.rb": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/vendor/bundle/ruby/1.9.1/gems/spree_api-1.3.2/lib/spree_api.rb": {
+        "time": 10
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/vendor/bundle/ruby/1.9.1/gems/spree_api-1.3.2/spree_api.gemspec": {
+        "time": 35
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/vendor/bundle/ruby/1.9.1/gems/spree_core-1.3.1/app/models/spree/gateway.rb": {
+        "time": 305
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/vendor/bundle/ruby/1.9.1/gems/spree_core-1.3.1/lib/spree/core/engine.rb": {
+        "time": 315
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/vendor/bundle/ruby/1.9.1/gems/spree_core-1.3.1/lib/spree_core.rb": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/vendor/bundle/ruby/1.9.1/gems/spree_core-1.3.2/app/controllers/spree/products_controller.rb": {
+        "time": 35
+    }, 
+    "/Users/gabriel/Development/walkby/Backend/vendor/bundle/ruby/1.9.1/gems/spree_core-1.3.2/app/models/spree/order.rb": {
+        "time": 200
+    }, 
+    "/Users/gabriel/Downloads/HelloGoogleMaps-master 2/Rakefile": {
+        "time": 50
+    }, 
+    "/Users/gabriel/Downloads/HelloGoogleMaps-master 2/app/app_delegate.rb": {
+        "time": 400
+    }, 
+    "/Users/gabriel/Downloads/HelloGoogleMaps-master/Rakefile": {
+        "time": 10
+    }, 
+    "/Users/gabriel/Downloads/HelloGoogleMaps-master/app/app_delegate.rb": {
+        "time": 685
+    }, 
+    "/Users/gabriel/Downloads/angular-ui-0.4.0/test/lib/maskedinput/jquery.maskedinput-1.3.js": {
+        "time": 90
+    }, 
+    "/Users/gabriel/Downloads/ibsample-master/app/app_delegate.rb": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Downloads/ibsample-master/app/view_controller.rb": {
+        "time": 290
+    }, 
+    "/Users/gabriel/Dropbox/ENGLISH 205/Analysis/Essay.txt": {
+        "time": 15
+    }, 
+    "/Users/gabriel/Dropbox/ENGLISH 205/Narrative/Essay.txt": {
+        "time": 15
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Final/Part 2/Part2_GabrielPeal.c": {
+        "time": 250
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Final/Part 3/main.c": {
+        "time": 15
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Final/Part 4/EC1.c": {
+        "time": 35
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Final/Part 4/Motor.c": {
+        "time": 15
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Final/Part 4/Motor.h": {
+        "time": 10
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Final/Part 4/main.c": {
+        "time": 20
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Final/Part 5/Motor.c": {
+        "time": 15
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Final/Part 5/main.c": {
+        "time": 25
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Final/Part 5/main.h": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Final/Part 6/Motor.c": {
+        "time": 30
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Final/Part 6/Motor.h": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Final/Part 6/main.c": {
+        "time": 145
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Final/Part 7/Motor.c": {
+        "time": 45
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Final/Part 7/Motor.h": {
+        "time": 295
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Final/Part 7/main.c": {
+        "time": 130
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Final/Part1_GabrielPeal.c": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Final/Part2_GabrielPeal.c": {
+        "time": 845
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Final/Part3/Motor.c": {
+        "time": 10
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Final/Part3_GabrielPeal.txt": {
+        "time": 150
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Final/Part5_GabrielPeal.png": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Final/Questions.txt": {
+        "time": 3065
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/FinalProject.X/.gitignore": {
+        "time": 100
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/FinalProject.X/EC1.c": {
+        "time": 5180
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/FinalProject.X/EC1.h": {
+        "time": 490
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/FinalProject.X/LCD.c": {
+        "time": 15
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/FinalProject.X/Motor.c": {
+        "time": 14520
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/FinalProject.X/Motor.h": {
+        "time": 1525
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/FinalProject.X/desired_trajectory.h": {
+        "time": 10
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/FinalProject.X/main.c": {
+        "time": 31460
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/FinalProject.X/main.h": {
+        "time": 150
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Peal_Gabriel_a13.txt": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Peal_Gabriel_a15.txt": {
+        "time": 8095
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Stopwatch.X/main.c": {
+        "time": 20
+    }, 
+    "/Users/gabriel/Dropbox/MECHE333/Timing63.X/main.c": {
+        "time": 5
+    }, 
+    "/Users/gabriel/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap": {
+        "time": 35
+    }, 
+    "/Users/gabriel/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/sublimelinter/modules/ruby_motion.py": {
+        "time": 10
+    }, 
+    "/Users/gabriel/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap": {
+        "time": 50
+    }, 
+    "/Users/gabriel/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings": {
+        "time": 195
+    }, 
+    "/Users/gabriel/Library/Application Support/Sublime Text 2/Packages/User/RubyMotion.sublime-settings": {
+        "time": 180
+    }, 
+    "27.02.2013//Users/gabriel/Development/walkby/Backend/app/assets/javascripts/global/angular/cc.js.coffee": {
+        "time": 155
+    }, 
+    "null": {
+        "time": 205
+    }
+}

@@ -1,0 +1,4 @@
+{
+	"last_test_run": "rspec spec/controllers/api/v1/shops_controller_spec.rb -l22",
+	"last_test_working_dir": "/Users/gabriel/Development/walkby/Backend"
+}
